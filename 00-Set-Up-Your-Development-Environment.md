@@ -1,4 +1,4 @@
-[0. Set Up Your Development Environment](https://www.gatsbyjs.org/tutorial/part-zero/)
+# [0. Set Up Your Development Environment](https://www.gatsbyjs.org/tutorial/part-zero/)
 
 > Gatsby를 동작하게 하는 코어 기술을 소개하고, 개발 환경 설정을 안내
 

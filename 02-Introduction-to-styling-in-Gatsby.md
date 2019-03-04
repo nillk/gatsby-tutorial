@@ -1,4 +1,4 @@
-[2. Introduction to styling in Gatsby](https://www.gatsbyjs.org/tutorial/part-two/)
+# [2. Introduction to styling in Gatsby](https://www.gatsbyjs.org/tutorial/part-two/)
 
 이 파트에선 Gatsby 사이트를 스타일링하기 위한 옵션들과 사이트를 구성하기 위한 React components를 사용하는 방법을 더 깊이 알아볼 것
 

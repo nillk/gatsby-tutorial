@@ -1,4 +1,4 @@
-[1. Get to know Gatsby building blocks](https://www.gatsbyjs.org/tutorial/part-one/)
+# [1. Get to know Gatsby building blocks](https://www.gatsbyjs.org/tutorial/part-one/)
 
 Gatsby starter를 기반으로 한 새로운 Gatsby 사이트를 생성하기 위해 아래 커맨드를 사용할 수 있다.
 
