@@ -11,3 +11,5 @@
 * [4. Data in Gatsby](04-Data-in-Gatsby.md)
 * [5. Source plugins and rendering queried data](05-Source-plugins-and-rendering-queried-data.md)
 * [6. Transformer plugins](06-Transformer-plugins.md)
+* [7. Programmatically create pages from data](07-Programmatically-create-pages-from-data.md)
+* [8. Preparing a site to go live](08-Preparing-a-site-to-go-live.md)
