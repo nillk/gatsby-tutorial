@@ -269,7 +269,7 @@ export const query = graphql`
 
 그리고...
 
-[](https://www.notion.so/54abc15d4895426aa671fe937fab47a0#b668151a170c4c8bbabb5e144bb6369d)
+![blog-post](images/07-blog-post.png)
 
 꺅 🎉
 
